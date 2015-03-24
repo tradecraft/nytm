@@ -205,8 +205,8 @@ a {
 
 .nav button.toggle-menu {
   margin: 7.5px 10px;
-  width: 40px;
-  height: 34px;
+  width: 2em;
+  height: 1.7em;
   background-color: #424242;
   border: 0px;
   border-radius: 2px;

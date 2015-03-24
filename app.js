@@ -5,7 +5,7 @@ $(document).ready(function () {
     $('.container').toggleClass('active');
 
     // Toggle sidebar open/close button label
-    $(this).text() == "<" ? $(this).text(">") : $(this).text("<");
+    $('.toggle-menu').text() == "<" ? $('.toggle-menu').text(">") : $('.toggle-menu').text("<");
   };
 
   // If sidebar button is clicked
