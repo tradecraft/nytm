@@ -217,6 +217,8 @@ a {
   outline: none;
   font-family: sans-serif;
   font-size: 2em;
+  vertical-align: center;
+  text-align: center;
 }
 
 /*
