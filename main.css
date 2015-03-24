@@ -205,7 +205,7 @@ a {
 }
 
 .nav button.toggle-menu {
-  padding: .375em .5em;
+  padding: .4em .5em;
   margin: .375em .5em;
   width: 2em;
   height: calc(100% - .75em);
@@ -214,7 +214,6 @@ a {
   border-radius: .1em;
   color: #AED581;
   font-weight: bold;
-  line-height: 1.1em;
   outline: none;
   font-family: sans-serif;
   font-size: 2em;
