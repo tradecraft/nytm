@@ -54,6 +54,7 @@ a {
    overflow: auto;
    position: relative;
    box-shadow: -10px 0px 20px -5px #555;
+   -webkit-overflow-scrolling: touch;
  }
 
  /*Article header*/
@@ -224,7 +225,6 @@ a {
  */
 
 .sidebar {
-  -webkit-scrollbar: display: none;
   position: absolute;
   width: 81%;
   max-width: 506px;
@@ -233,6 +233,7 @@ a {
   left: -81%;
   top: 0;
   background-color: #808080;
+  -webkit-overflow-scrolling: touch;
 }
 
 .sidebar::-webkit-scrollbar {
