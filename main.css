@@ -205,12 +205,13 @@ a {
 }
 
 .nav button.toggle-menu {
-  padding: .4em .5em;
+  padding: .375em .5em;
   margin: .375em .5em;
   width: 2em;
   height: calc(100% - .75em);
   background-color: #424242;
   border: 0px;
+  line-height: 1em;
   border-radius: .1em;
   color: #AED581;
   font-weight: bold;
